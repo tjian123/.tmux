@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 TMUX_DIR="$HOME/.tmux"
-REPO_URL="https://github.com/your-username/.tmux.git"
+REPO_URL="https://github.com/tjian123/.tmux.git"
 
 echo "Installing .tmux configuration..."
 
